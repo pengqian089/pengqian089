@@ -1,3 +1,5 @@
+![Metrics](https://metrics.lecoq.io/pengqian089?template=classic&projects=1&code=1&achievements=1&activity=1&repositories=1&people=1&stars=1&gists=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&stars.limit=4&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=Asia%2FHong_Kong)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengqian089&count_private=true&&show_icons=true&&theme=radical)
 
 <!--
