@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Eugeny/tabby</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A terminal for a more modern age</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/terminal</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The new Windows Terminal and the original Windows console host, all in the same place!</div>
@@ -1055,7 +1055,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2022, 22:08:31 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jun 2022, 23:09:31 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
