@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nuke-build/nuke</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏗 The AKEless Build System for C#/.NET</div>
@@ -607,7 +607,7 @@ markdown文档中图片样式不再为块级元素；
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.881930184804924 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.924366872005471 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1067,7 +1067,7 @@ markdown文档中图片样式不再为块级元素；
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jul 2022, 08:59:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 4 Jul 2022, 11:19:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
