@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2156" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2116" class="">
     <defs>
         <style/>
     </defs>
@@ -1106,7 +1106,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">58929f27</span>
-                            <span class="code">src/SiteManager.Web/wwwroot/js/bootstrap-datepicker/locales/bootstrap-datepicker.eo.min.js</span>
+                            <span class="code">src/SiteManager.Web/wwwroot/js/bootstrap-colorpicker/css/bootstrap-colorpicker.min.css.map</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -1114,14 +1114,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">!function(a){a.fn.datepicker.dates.eo={days:["dimanĉo","lundo","mardo","merkredo","ĵaŭdo","vendredo","sabato"],daysShort:["dim.","lun.","mar.","mer.","ĵaŭ.","ven.","sam."],daysMin:["d","l","ma","me","ĵ","v","s"],months:["januaro","februaro","marto","aprilo","majo","junio","julio","aŭgusto","septembro","oktobro","novembro","decembro"],monthsShort:["jan.","feb.","mar.","apr.","majo","jun.","jul.","aŭg.","sep.","okt.","nov.","dec."],today:"Hodiaŭ",clear:"Nuligi",weekStart:1,format:"yyyy-mm-dd"}}(jQuery);<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">{"version":3,"sources":["src/less/colorpicker.less"],"names":[],"mappings":";;;;;;;;AAqBA,wBACE,MAAA,MACA,OAAA,MAXA,iBAAsB,iDAatB,OAAA,UACA,MAAA,KACA,0BACE,QAAA,MACA,OAAA,IACA,MAAA,IACA,OAAA,IAAA,MAAA,KAfF,sBAAA,IACA,mBAAA,IACA,cAAA,IAeE,SAAA,SACA,IAAA,EACA,KAAA,EACA,OAAA,KAAA,EAAA,EAAA,KACA,4BACE,QAAA,MACA,OAAA,IACA,MAAA,IACA,OAAA,IAAA,MAAA,KAzBJ,sBAAA,IACA,mBAAA,IACA,cAAA,IA8BF,mBADA,iBAEE,MAAA,KACA,OAAA,MACA,MAAA,KACA,OAAA,WACA,YAAA,IACA,cAAA,IAIiB,qBADF,mBAEf,QAAA,MACA,OAAA,IACA,WAAA,KACA,WAAA,IAAA,MAAA,KACA,SAAA,SACA,IAAA,EACA,KAAA,EACA,MAAA,KACA,WAAA,KAGF,iBA1DE,iBAAsB,0CA8DxB,mBA9DE,iBAAsB,4CAgEtB,QAAA,KAKF,mBADA,iBADA,wBAGE,gBAAA,QAGF,aACE,QAAA,IACA,UAAA,MACA,WAAA,IAxEA,sBAAA,IACA,mBAAA,IACA,cAAA,IAwEA,QAAA,KAIU,mBADA,oBAEV,QAAA,MACA,QAAA,GACA,YAAA,EAGU,mBACV,MAAA,KAGU,oBACV,QAAA,GACA,QAAA,aACA,YAAA,IAAA,MAAA,YACA,aAAA,IAAA,MAAA,YACA,cAAA,IAAA,MAAA,KACA,oBAAA,eACA,SAAA,SACA,IAAA,KACA,KAAA,IAGU,mBACV,QAAA,GACA,QAAA,aACA,YAAA,IAAA,MAAA,YACA,aAAA,IAAA,MAAA,YACA,cAAA,IAAA,MAAA,KACA,SAAA,SACA,IAAA,KACA,KAAA,IAGW,iBACX,SAAA,SAGU,oCACV,UAAA,MAGkC,uDAClC,QAAA,MAGF,mBACE,OAAA,KACA,WAAA,IACA,MAAA,KAlIA,iBAAsB,4CAoItB,oBAAA,EAAA,KAGiB,uBACjB,OAAA,KAGF,uBACE,QAAA,KACA,OAAA,KACA,WAAA,IACA,MAAA,KAGqB,yBACrB,OAAA,QACA,MAAA,KACA,OAAA,KACA,MAAA,KAGuB,2BACvB,YAAA,IAI2B,+BADW,0CAEtC,QAAA,aACA,OAAA,QACA,OAAA,KACA,eAAA,SACA,MAAA,KAGU,gCACV,SAAA,SACA,QAAA,aACA,MAAA,KACA,QAAA,KAGU,oCACV,MAAA,MACA,UAAA,MACA,OAAA,KAGkC,4DAClC,cAAA,IAGkC,uDAClC,MAAA,MAIkC,uDADA,qDAElC,MAAA,MACA,OAAA,KACA,MAAA,KACA,OAAA,WACA,YAAA,EACA,cAAA,IAIqD,yDADF,uDAEnD,QAAA,MACA,OAAA,KACA,WAAA,KACA,SAAA,SACA,IAAA,EACA,KAAA,EACA,MAAA,IACA,OAAA,KACA,WAAA,EAGkC,qDAlNlC,iBAAsB,qDAsNY,uDAtNlC,iBAAsB,uDA0NZ,gCACV,QAAA,KAGU,iCACV,QAAA,MAGiB,wCACjB,QAAA,aAGgB,0BAChB,KAAA,KACA,MAAA,IAGgB,yBAChB,KAAA,KACA,MAAA,IAGmB,6BACnB,aAAA,EACA,YAAA,EAGmB,4BACnB,aAAA,EACA,YAAA"}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jul 2022, 02:13:05 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 19 Jul 2022, 03:08:53 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
