@@ -1106,7 +1106,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">58929f27</span>
-                            <span class="code">src/SiteManager.Web/wwwroot/js/bootstrap-datepicker/locales/bootstrap-datepicker.it-CH.min.js</span>
+                            <span class="code">src/SiteManager.Web/wwwroot/js/bootstrap-datepicker/locales/bootstrap-datepicker.nb.min.js</span>
                             <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
@@ -1114,14 +1114,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">!function(a){a.fn.datepicker.dates.it={days:["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"],daysShort:["Dom","Lun","Mar","Mer","Gio","Ven","Sab"],daysMin:["Do","Lu","Ma","Me","Gi","Ve","Sa"],months:["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"],monthsShort:["Gen","Feb","Mar","Apr","Mag","Giu","Lug","Ago","Set","Ott","Nov","Dic"],today:"Oggi",clear:"Cancella",weekStart:1,format:"dd.mm.yyyy"}}(jQuery);<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">!function(a){a.fn.datepicker.dates.nb={days:["Søndag","Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag"],daysShort:["Søn","Man","Tir","Ons","Tor","Fre","Lør"],daysMin:["Sø","Ma","Ti","On","To","Fr","Lø"],months:["Januar","Februar","Mars","April","Mai","Juni","Juli","August","September","Oktober","November","Desember"],monthsShort:["Jan","Feb","Mar","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Des"],today:"I Dag",format:"dd.mm.yyyy"}}(jQuery);<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jul 2022, 20:19:34 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 20 Jul 2022, 21:36:45 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
