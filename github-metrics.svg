@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>files-community/Files</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern file manager for Windows</div>
@@ -1087,7 +1087,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2022, 13:24:14 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 14:13:45 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
