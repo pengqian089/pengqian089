@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icsharpcode/SharpZipLib</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">#ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.</div>
@@ -1068,7 +1068,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2022, 16:15:47 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Oct 2022, 17:14:13 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
