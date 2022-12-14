@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShirasawaSama/CefDetector</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Check how many CEFs are on your computer. 检测你电脑上有几个CEF.</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jbogard/MediatR</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Nov 14 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, unambitious mediator implementation in .NET</div>
@@ -1104,7 +1104,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2022, 11:14:49 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 14 Dec 2022, 12:12:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
