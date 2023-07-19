@@ -477,7 +477,7 @@
                                         <span>starred Apr 10 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Next-generation HTML renderer for apps and games</div>
+                                <div class="field description">Ultra-portable web-browser engine for game and app developers.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -616,7 +616,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jul 2023, 04:08:39 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jul 2023, 05:07:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
