@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnetcore/AspectCore-Framework</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AspectCore is an AOP-based cross platform framework for .NET Standard.</div>
@@ -474,7 +474,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FoundatioFx/Foundatio</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pluggable foundation blocks for building distributed apps.</div>
@@ -1089,7 +1089,7 @@ Program.cs
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2023, 16:10:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2023, 17:07:55 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
