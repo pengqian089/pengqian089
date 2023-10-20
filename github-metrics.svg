@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zloirock/core-js</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Standard Library</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnetcore/AspectCore-Framework</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AspectCore is an AOP-based cross platform framework for .NET Standard.</div>
@@ -1099,7 +1099,7 @@ Program.cs
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Oct 2023, 16:11:46 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2023, 17:09:24 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
