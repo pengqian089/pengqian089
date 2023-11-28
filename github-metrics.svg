@@ -411,7 +411,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dotnet/docfx</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Static site generator for .NET API documentation.</div>
@@ -1089,7 +1089,7 @@ https://www.zhihu.com/pin/1712810518455181313
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2023, 19:08:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 20:16:34 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
