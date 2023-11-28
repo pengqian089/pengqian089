@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2054" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2083" class="">
     <defs>
         <style/>
     </defs>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanoframework/Home</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -566,6 +566,30 @@
                                 <div class="details">
                                     <div>opened by pengqian089 in <span class="repo">XIU2/UserScript</span></div>
                                     <div class="comment">
+                                        吐槽一下，摸鱼的时候遇到这样的东西，看着真扫兴。
+如果是一般的问题，我至少还能点一下“不感兴趣”
+https://www.zhihu.com/pin/1712810518455181313
+                                        <i>不知道为啥，我无论怎么刷都遇不到一个。。。
+#407 有人提过 想法 的 PR，但是因为我遇不到，没办法验证。。</i>
+                                        过段时间再去首页刷新试试吧，可能你那边还没更新？
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#409 [知乎增强] 知乎首页出现了一种新的链接，而不是问题 </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by pengqian089 in <span class="repo">XIU2/UserScript</span></div>
+                                    <div class="comment">
                                         <i>遇到的概率高吗？我刷了半天知乎首页也没遇到这个。。。</i>
                                         每次刷新都会出现，可能地区不一样或者我设置差异导致的？
                                     </div>
@@ -618,26 +642,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">FiloSottile/mkcert</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">pengqian089/SiteScript</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#681ba10</div>
-                                        <div class="message">时间轴</div>
                                     </div>
                                 </div>
                             </section>
@@ -1085,7 +1089,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2023, 15:09:05 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Nov 2023, 16:12:25 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
