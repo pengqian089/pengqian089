@@ -108,7 +108,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            32 issue comments
+                            33 issue comments
                         </div>
                     </section>
                     <section>
@@ -566,6 +566,27 @@
                                 <div class="details">
                                     <div>opened by pengqian089 in <span class="repo">XIU2/UserScript</span></div>
                                     <div class="comment">
+                                        <i>在前面等待你回复的过程中，我也没闲着，依靠你提供的 .mhtml 静态网页分析了网页结果，现在通过远程协助测试验证后倒是没啥问题了。
+稍后我会更新脚本~</i>
+                                        只能说，幸苦作者了。感谢你的扩展，让我上班摸鱼更有动力 🤣
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#409 [知乎增强] 知乎首页出现了一种新的链接，而不是问题 </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by pengqian089 in <span class="repo">XIU2/UserScript</span></div>
+                                    <div class="comment">
                                         <i>
                                             那就远程一下吧，否则交流起来太难受。。。
 下载远程协助软件（这个是只有被控功能的单文件版，用完即删），告诉我你的设备代码、临时密码（我看到后会删掉）。 https://dl.todesk.com/windows/ToDesk_Lite.exe
@@ -647,30 +668,6 @@ https://wechat.todesk.com/invite-page?id=__oWZyKRl2zVSD4z3bb2W
                                     <div class="comment">
                                         <i>因为我一直刷不到，所以我按照你们提供的信息改了改脚本，你们更新一下试试看能不能屏蔽（默认未开启 想法 的屏蔽，需要去脚本菜单的 屏蔽指定类别 里开启）。</i>
                                         第一页没有想法，后续滚动分页会有出现
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#409 [知乎增强] 知乎首页出现了一种新的链接，而不是问题 </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by pengqian089 in <span class="repo">XIU2/UserScript</span></div>
-                                    <div class="comment">
-                                        吐槽一下，摸鱼的时候遇到这样的东西，看着真扫兴。
-如果是一般的问题，我至少还能点一下“不感兴趣”
-https://www.zhihu.com/pin/1712810518455181313
-                                        <i>不知道为啥，我无论怎么刷都遇不到一个。。。
-#407 有人提过 想法 的 PR，但是因为我遇不到，没办法验证。。</i>
-                                        过段时间再去首页刷新试试吧，可能你那边还没更新？
                                     </div>
                                 </div>
                             </section>
@@ -1118,7 +1115,7 @@ https://www.zhihu.com/pin/1712810518455181313
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Nov 2023, 21:12:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2023, 22:08:42 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
