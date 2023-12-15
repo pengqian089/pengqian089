@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>micjahn/ZXing.Net</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.Net port of the original java-based barcode reader and generator library zxing</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fody/Home</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The landing page for Fody repositories</div>
@@ -1171,7 +1171,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2023, 16:12:17 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2023, 17:09:38 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
