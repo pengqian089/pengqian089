@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2185" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2174" class="">
     <defs>
         <style/>
     </defs>
@@ -108,7 +108,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            36 issue comments
+                            37 issue comments
                         </div>
                     </section>
                     <section>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>micjahn/ZXing.Net</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">.Net port of the original java-based barcode reader and generator library zxing</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fody/Home</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The landing page for Fody repositories</div>
@@ -566,6 +566,24 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#152 Mongodb 支持</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by pengqian089 in <span class="repo">dotnetcore/AgileConfig</span></div>
+                                    <div class="comment">@kklldog  可以的，我当时就想过了，抽象出Repository，那样只需要维护一个 Service层就好了。
+当时写的比较匆忙，所以没有去做</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -631,34 +649,6 @@
                                     <div>opened by pengqian089 in <span class="repo">dotnetcore/AgileConfig</span></div>
                                     <div class="comment">另外SysLog 的 Id 为 int 类型，生成Id 有更好的方式吗？
 https://github.com/pengqian089/AgileConfig/blob/3c4b6fd65048b7997e7efe7340fb2b3a2f3b2296/src/AgileConfig.Server.Mongodb.Service/SysLogService.cs#L36</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">pengqian089/AgileConfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">support-mongodb</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3c4b6fd</div>
-                                        <div class="message">补完单元测试</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#797c3df</div>
-                                        <div class="message">优化过滤器，IRepository Find FindAsync 参数签名改为object,适配SysLog实体int类型的id</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#143a9ce</div>
-                                        <div class="message">修复当 主键 属性名不为Id时产生错误的问题</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1146,7 +1136,7 @@ https://github.com/pengqian089/AgileConfig/blob/3c4b6fd65048b7997e7efe7340fb2b3a
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2023, 16:10:36 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2023, 17:08:15 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
