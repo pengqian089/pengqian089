@@ -822,7 +822,7 @@ Service 实现层移除 FreeSql 的依赖，同时适配新的 Repository 层</d
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 1.89m out of 127m users</span>
+                                    <span class="gh">ranked 1.77m out of 127m users</span>
                                 </div>
                                 <div class="text">Published 26 public repositories</div>
                             </div>
@@ -1152,7 +1152,7 @@ Service 实现层移除 FreeSql 的依赖，同时适配新的 Repository 层</d
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2024, 03:07:45 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 04:10:06 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
