@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bagetter/BaGetter</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight NuGet and symbol server</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qianjiachun/douyuEx</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">斗鱼直播间增强插件（Tampermonkey）</div>
@@ -1100,7 +1100,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Jan 2024, 00:11:03 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Jan 2024, 01:09:18 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
