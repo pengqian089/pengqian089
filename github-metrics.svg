@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iDvel/rime-ice</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rime 配置：雾凇拼音 | 长期维护的简体词库</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rime/librime</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rime Input Method Engine, the core library</div>
@@ -1129,7 +1129,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jul 2024, 12:12:35 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jul 2024, 13:10:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
