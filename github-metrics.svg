@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>searchpioneer/lingua-dotnet</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Natural language detection library for .NET, suitable for long and short text alike</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LibreHardwareMonitor/LibreHardwareMonitor</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Libre Hardware Monitor, home of the fork of Open Hardware Monitor</div>
@@ -1112,7 +1112,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Aug 2024, 16:13:40 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Aug 2024, 17:10:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
