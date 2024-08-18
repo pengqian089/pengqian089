@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>searchpioneer/lingua-dotnet</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Natural language detection library for .NET, suitable for long and short text alike</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LibreHardwareMonitor/LibreHardwareMonitor</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Libre Hardware Monitor, home of the fork of Open Hardware Monitor</div>
@@ -725,7 +725,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.37m out of 141m users</span>
+                                    <span class="gh">ranked 4.37m out of 142m users</span>
                                 </div>
                                 <div class="text">Published 15 public repositories</div>
                             </div>
@@ -921,7 +921,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.26m out of 141m users</span>
+                                    <span class="gh">ranked 3.26m out of 142m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -1099,7 +1099,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Aug 2024, 16:12:27 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Aug 2024, 17:12:38 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
