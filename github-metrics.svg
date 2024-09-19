@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FastReports/FastReport</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports</div>
@@ -1145,7 +1145,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Sept 2024, 10:10:37 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2024, 11:14:03 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
