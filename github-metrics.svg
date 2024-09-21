@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FastReports/FastReport</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free Open Source Reporting tool for .NET6/.NET Core/.NET Framework that helps your application generate document-like reports</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dlemstra/Magick.NET</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The .NET library for ImageMagick</div>
@@ -1145,7 +1145,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Sept 2024, 19:08:34 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2024, 20:18:21 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
