@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2463" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2300" class="">
     <defs>
         <style/>
     </defs>
@@ -572,6 +572,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">pengqian089/dpz.core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop-company</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#75031b3</div>
+                                        <div class="message">修复bug</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">pengqian089/dpz.core</span>
                                     </div>
@@ -713,72 +733,6 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop-company</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8fa36e0</div>
-                                        <div class="message">优化</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dedd2ad</div>
-                                        <div class="message">Merge pull request #116 from pengqian089/develop-home
-
-Develop home</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f66b626</div>
-                                        <div class="message">添加遗漏文件</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7292199</div>
-                                        <div class="message">修复 bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6523c51</div>
-                                        <div class="message">发布文章健壮性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1b48ff</div>
-                                        <div class="message">创建文章使用分布式锁，升级hangfire</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dc81798</div>
-                                        <div class="message">Merge pull request #115 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6851983</div>
-                                        <div class="message">Merge pull request #110 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f3c0ee5</div>
-                                        <div class="message">Merge pull request #108 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a15752a</div>
-                                        <div class="message">Merge pull request #107 from pengqian089/develop-company
-
-Develop company</div>
                                     </div>
                                 </div>
                             </section>
@@ -1343,7 +1297,7 @@ Develop company</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Nov 2024, 22:11:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Nov 2024, 23:12:47 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
