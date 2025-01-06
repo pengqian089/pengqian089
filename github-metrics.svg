@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2276" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2236" class="">
     <defs>
         <style/>
     </defs>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>layui/layui</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。</div>
@@ -574,6 +574,30 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">pengqian089/Dpz.Core.Web.Dashboard</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#968876a</div>
+                                        <div class="message">feat(core): 实现 Markdown 编辑器的主题切换功能
+
+- 在 LocalStorageService 中添加字符串类型的数据处理逻辑
+- 在 MarkdownEditor组件中实现主题的本地存储和动态加载
+- 优化 LocalStorageService 的代码结构，提高可读性和可维护性</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">pengqian089/dpz.core</span>
                                     </div>
                                 </div>
@@ -645,46 +669,6 @@
 - 在 markdown.js 中设置编辑器高度为 100%
 - 在 MarkdownEditor.razor 中调整编辑器容器结构
 - 优化编辑器样式，设置最小高度为 600px</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop-company</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#77ee61e</div>
-                                        <div class="message">feat(core): 优化缓存模块并添加日志记录
-
-- 移除不必要的嵌套属性访问
-- 优化缓存命中和未命中时的日志记录
-- 改进缓存清除操作并添加相应日志
-- 重构缓存清除方法以提高可读性和复用性
-- 优化属性 getter 和 setter 的缓存机制
-- 简化 GetValue 方法的实现</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#629dee8</div>
-                                        <div class="message">修改版本号</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e8e4ed</div>
-                                        <div class="message">refactor(Dpz.Core.Service):优化缓存模块属性获取和序列化
-
-- 使用表达式树优化属性 getter 和 setter，提高性能
-- 重构 PagedList 序列化和反序列化逻辑，增强可读性和可维护性
-- 优化缓存键生成逻辑，提升缓存命中率
-- 添加日志记录，方便调试和监控缓存操作</div>
                                     </div>
                                 </div>
                             </section>
@@ -1032,7 +1016,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.98m out of 152m users</span>
+                                    <span class="gh">ranked 2.99m out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -1249,7 +1233,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jan 2025, 19:09:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2025, 20:22:00 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
