@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2700" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2682" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}.token.string{color:#2777aa}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2{margin:8px 0 2px;padding:0;color:#0366d6;font-size:20px;font-weight:700}h2{font-weight:400;font-size:16px}.gauge text,h1 svg,h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    1.24 GB used
+                                    1.25 GB used
                                 </div>
                             </section>
                             <section>
@@ -518,7 +518,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EAC0QAAEDAgQEBQQDAAAAAAAAAAECAwQFEQAGEiETMVFxBxQiYYEWI0GhF2Lx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//EABoRAAMAAwEAAAAAAAAAAAAAAAABAgMRMTL/2gAMAwEAAhEDEQA/AMiHRY83LK4jKkMXSFtnYWI3Bw+odWjxqG2KoQ04y2EOKG6DYc745vrOXqnGjCoESnYFxqW0o+jqF9PY4WeHVBzNW4dUp6nVRIDkbW0uUzrVuRbTy5i++49sTZBNmzxBoJeW1C40hw7XCdCPgnngDVMiCsVGRLTLahpURZot/wBQb7d8MMp+Esw1KPMrU2EqKxfU00Drcsbi5sPzY33O2NjzdNL0guPMJHEVo4hTun8Ee2BTaFK30CZBzv5adJfDCuGsfdZC7nuPm/x+038nw4NZ8xBcaeDwIUCHAtPcBJxBKe84xMacZWUL6jFOy3TotdKVVBu7oOjiNkoVbuMZtzw649ZPQv8Ar2ZWoxgU0PRnzdcqYpoIDbfRAvzPU/5Js3VMy626YuzLQDSfjFUn02JSojEOAyGm3VfcVclS+5OJ/m2CxT68+1GSUoWhp0gm/qU2kn9nBVN9FluZepR//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcFCP/EAC0QAAEDAgQEBQQDAAAAAAAAAAECAwQFEQAGEiETMVFxBxQiYYEWI0GhF2Lx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgEAA//EABsRAAMAAwEBAAAAAAAAAAAAAAABAgMRMRMy/9oADAMBAAIRAxEAPwDIh0WPNyyuIypDF0hbZ2FiNwcPqHVo8ahtiqENOMthDihug2HO+Ob6zl6pxowqBEp2BcaltKPo6hfT2OFnh1QczVuHVKep1USA5G1tLlM61bkW08uYvvuPbE2QTZs8QaCXltQuNIcO1wnQj4J54A1TIgrFRkS0y2oaVEWaLf8AUG+3fDDKfhLMNSjzK1NhKisX1NNA63LG4ubD82N9ztjY83TS9ILjzCRxFaOIU7p/BHtgU2hSt9AmQc7+WnSXwwrhrH3WQu57j5v8ftN/J8ODWfMQXGng8CFAhwLT3AScQWA84xMacaWUL6jFNy3TotdKVVBu7oOjiNkoVbuMZtzw6Y36fQv+vZlajGBTQ9GfN1ypimggNt9EC/M9T/kmzdUzLrbpi7MtANJ+MVSfTYlKiMQ4DIabdV9xVyVL7k4n+bYLFPrz7UZJShaGnSCb+pTaSf2cFU30eW5l6lH/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcIBAX/xAApEAABAwMCBAYDAAAAAAAAAAABAgMEAAURBiEHEkFRExQxYYGxIiPx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABoRAAIDAQEAAAAAAAAAAAAAAAABAgMREiH/2gAMAwEAAhEDEQA/ANCUI1dxGtunZ5hJhTri+1jx/KN5DO2dz3x0ptmpvfkTLfcJoYdaQ084V/k3nK1nP0alJ4Vqr7eDSx3iFfrUxcLa74kd30yMEHqCOhFdKhvR7QMRUOzSOcgl6Qt3IGAdkA4+QaQqO9EX4ZJcvAprDiNp7SbyGLrJWZJTz+AynnWB79vmpHfuJ9k1E27LcX5F1pzkDLyVrK2+hBTtn2/tRK/XCTcLjImS3S5IfdUtaj1NeK6tWfWmnBNYLCxweo0tpjjxa0Ro8S4W+RGQ3+sON4cBHcjYj3xmrLbLpGucBmZCdQ9GeTzIWg7EVgZtRyKvvBm6TUaTdZS+sNtSlJQOw5EH7JozEDfT9P/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAwIEBgEH/8QAKhAAAQMDBAEACwAAAAAAAAAAAQIDEQAEEgUTITFBBhQyM1FhcZGx0eH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgH/xAAdEQEAAgICAwAAAAAAAAAAAAABAAIEERIhA1Fx/9oADAMBAAIRAxEAPwD3lIJMAEn4ASacWlyqCGePmoChYKGbpt10w2mSeeOp/NXbDVWbxl1TT7a9tpJWUqBCSZmY+lDjbLKrjKm1FJKSR3iqYo6hY37N0l2+t3cmlSCGnJBPJ7HX8rrPukYTjHFbKqwb562ZYX68UBiQVZGBHMioaG/6NIYWxZFtDbiiuHRE8AcfYcd0Gq6db6pcW9tdpKm9xJ4MHus7prTbGr3tm0jFpm/2EGTkEZDiaDl5XkxtW0NVB99updqVWtdvJ386NzVadaabp1k61ozKVNKdTlxBdVJKpPk4numbS1stTjjiMc/ajxNVnUhopU2McLggAdef0Ke1AVatT4SBTOTZ2ySoT//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYI/8QALhAAAQMDAwIEBAcAAAAAAAAAAQIDBAUGEQASIQcxEzJBURQiYcEWJmJxkaHw/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIRAxEAPwBz9crdq109OZ1LoEtMaY8trzLKA4jcMt5Hv/fb11ZtehxbSpdFt5EOZU2WmNpnPAvbVDvnPlHJwB27Y0iuo3Ui8LQqjarolzUTWayh9mliM21DkwU7zlt5IKlHIbyFHgkcH03k3qvZ12wYkqHdzNJ2YL0WTlh1J+hweR+jv2zoQTvi2rinXrZlfs2q1CJCEsNT4TshaGfBBKifCJxyAsYx6p7Y039ct9Weu1PZodLpdo1t2bVmX0qlVOGwWkJQAQrYHM5UQfqB763nQuTclzWMaw7c0p1mXMeVHTKYS8600DtCVrCUgnKSeBjnQF7ypMG8Yyqbckf41piQXWWlJAwQg85GDjGf9jWMjdJ7Jk+J+XUNjJ+fxFgIwM48/Ofvpp0uK1Pq1T+JBV4ZxwfNx6++jD1u097b4jaiRt+bdyce+gTLPSeymWy7+GxwRhxxZwk5Hpu5/jTctpDjNOLEfazHZXsbbYbbbQhOAQAkDjvqddAgFlSFtqWl1QWQpWcEAkEe3t+3GrUOjRIqFpZSsBStx+b1wB9tB//Z" width="28" height="28" alt="" />
@@ -561,59 +561,115 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
+                                        Pushed 38 commits in
                                         <span class="repo">pengqian089/dpz.core</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#739b877</div>
-                                        <div class="message">Merge pull request #152 from pengqian089/develop-company
+                                        <div class="sha">#5af1fa1</div>
+                                        <div class="message">feat(VideoController): 添加视频元数据缓存功能
+
+- 在 GetVideoMetaData 方法中加入缓存逻辑，提高响应速度
+- 使用 HybridCachingProvider 进行缓存操作
+- 设置缓存键为 "Video-Meta:{id}"，缓存有效期为 90天
+- 首先尝试从缓存中获取视频元数据，若存在则直接返回
+- 若缓存不存在，则从视频服务中获取元数据，并在获取成功后存入缓存</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6dd904b</div>
+                                        <div class="message">refactor(VideoController): 重构视频列表获取方法
+
+- 移除了 VideoController 中的 IObjectStorageOperation 依赖
+- 将 GetVideoListDetails 方法中的视频列表获取逻辑简化为直接调用 videoShardService.GetVideosAsync()</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#112b8a7</div>
+                                        <div class="message">Merge pull request #149 from pengqian089/develop-home
+
+Develop home</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7060a2e</div>
+                                        <div class="message">优化</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e6bd60</div>
+                                        <div class="message">添加视频获取元数据接口，添加视频设置缩略图接口</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f862308</div>
+                                        <div class="message">修复获取视频元数据的问题</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#876dc95</div>
+                                        <div class="message">+ 添加播放时，添加播放次数接口
++ 发送弹幕时，自动增加弹幕数量
++ 回复时，自动增加评论数量</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45701fe</div>
+                                        <div class="message">Merge pull request #148 from pengqian089/develop-home
+
++ 添加播放时，添加播放次数接口</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#657ea36</div>
+                                        <div class="message">Merge pull request #147 from pengqian089/develop-home
+
++ 视频添加播放数量</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34a34ba</div>
+                                        <div class="message">+ 视频添加播放数量
++ 添加视频弹幕数量
++ 添加视频评论数量
++ 视频列表添加播放数量、弹幕数量、评论数量、视频标签、封面、视频描述、视频副标题、视频标题、名称（方便弹幕管理友好名称）</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4435017</div>
+                                        <div class="message">Merge pull request #146 from pengqian089/develop-company
+
+nuget pack</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#997982b</div>
+                                        <div class="message">nuget pack</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5469818</div>
+                                        <div class="message">Merge pull request #145 from pengqian089/develop-company
 
 Develop company</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#f36d694</div>
-                                        <div class="message">feat(core): 优化缓存键生成逻辑并添加更新日志功能
-
-- 优化 CacheModuleAttribute 中的缓存键生成逻辑，提高缓存命中率
-- 新增 CHANGELOG.md 文件，记录项目更新日志
-- 添加 ChangeLogs 页面，用于展示更新日志
-- 更新 README.md，添加 CHANGELOG链接</div>
+                                        <div class="sha">#852efeb</div>
+                                        <div class="message">WebAPI 请求的参数(QueryString,Body)添加进日志记录</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#77ee61e</div>
-                                        <div class="message">feat(core): 优化缓存模块并添加日志记录
-
-- 移除不必要的嵌套属性访问
-- 优化缓存命中和未命中时的日志记录
-- 改进缓存清除操作并添加相应日志
-- 重构缓存清除方法以提高可读性和复用性
-- 优化属性 getter 和 setter 的缓存机制
-- 简化 GetValue 方法的实现</div>
+                                        <div class="sha">#8c9c2b7</div>
+                                        <div class="message">预发布</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#629dee8</div>
-                                        <div class="message">修改版本号</div>
+                                        <div class="sha">#c86e4d9</div>
+                                        <div class="message">redis step</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3e8e4ed</div>
-                                        <div class="message">refactor(Dpz.Core.Service):优化缓存模块属性获取和序列化
-
-- 使用表达式树优化属性 getter 和 setter，提高性能
-- 重构 PagedList 序列化和反序列化逻辑，增强可读性和可维护性
-- 优化缓存键生成逻辑，提升缓存命中率
-- 添加日志记录，方便调试和监控缓存操作</div>
+                                        <div class="sha">#bee97a0</div>
+                                        <div class="message">添加服务器</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#dfcc510</div>
-                                        <div class="message">refactor(CommunityController): 添加非生产环境的访问日志模拟数据
-
-- 在 GetSummaryInformationAsync 方法中，根据配置判断是否为生产环境
-- 非生产环境时，使用 SetRandomData 方法生成模拟数据
-- SetRandomData 方法生成随机的今日访问数和最近日志
-- 优化了代码结构，提高了可维护性</div>
+                                        <div class="sha">#dfb6a04</div>
+                                        <div class="message">更改版本号</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#714ebc0</div>
+                                        <div class="message">添加 Nuget 包</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#892159c</div>
+                                        <div class="message">标题组件更改</div>
                                     </div>
                                 </div>
                             </section>
@@ -626,12 +682,12 @@ Develop company</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#152 Develop company</span>
+                                        <span class="issue">#154 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">pengqian089/dpz.core</span></div>
-                                    <div>9 files changed <span class="code">++478 --119</span></div>
+                                    <div>377 files changed <span class="code">++1942 --29686</span></div>
                                 </div>
                             </section>
                         </div>
@@ -643,12 +699,12 @@ Develop company</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#152 Develop company</span>
+                                        <span class="issue">#154 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">pengqian089/dpz.core</span></div>
-                                    <div>9 files changed <span class="code">++478 --119</span></div>
+                                    <div>377 files changed <span class="code">++1942 --29686</span></div>
                                 </div>
                             </section>
                         </div>
@@ -659,57 +715,37 @@ Develop company</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">pengqian089/Dpz.Core.WebMore</span>
+                                        Pushed 3 commits in
+                                        <span class="repo">pengqian089/dpz.core</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#075259f</div>
-                                        <div class="message">Merge pull request #1 from pengqian089/develop-upgrade
+                                        <div class="sha">#3f3ba28</div>
+                                        <div class="message">Merge pull request #153 from pengqian089/develop-company
 
-Develop upgrade</div>
+Develop company</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#df0b897</div>
-                                        <div class="message">feat(WebMore): 添加 BSON 文件解析功能
+                                        <div class="sha">#3d2f512</div>
+                                        <div class="message">build(Dpz.Core.Web.Jobs): 更新项目版本号
 
-- 新增 ShowBsonToJson 页面，实现 BSON 文件上传和解析
-- 添加 ObjectId 解析功能
-- 集成 Monaco编辑器用于显示 JSON 数据
-- 优化文件上传组件，支持选择单个 BSON 文件</div>
+- 将项目版本号从 1.4.4.$(Build) 修改为 1.4.5.$(Build)
+- 此更新统一了项目的版本号，确保版本一致性</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7a388c6</div>
-                                        <div class="message">refactor(WebMore): 重构代码并优化性能
+                                        <div class="sha">#244d68c</div>
+                                        <div class="message">feat(core): 优化日志配置并添加 FTP 文件上传功能
 
-- 移除 Code 页面及其相关组件和样式
-- 优化 Autocomplete 组件的渲染逻辑
-- 改进 Comment 组件的图标使用
-- 统一使用 Icons.Material.Filled而不是 Icons.Filled
-- 修复部分组件的参数类型和命名
-- 优化部分方法的返回类型和异常处理</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6656cc</div>
-                                        <div class="message">refactor(WebMore): 优化 Comment 组件中的 MudInput 控件属性布局
-
-- 调整了 MudInput 控件的属性排列方式，提高代码可读性
-- 从 DisableUnderLine 属性更改为 Underline 属性，以符合 MudBlazor 最新版本</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5b4ca47</div>
-                                        <div class="message">build(WebMore): 升级到 .NET 9.0 并更新相关库
-
-- 将目标框架从 net8.0 更改为 net9.0
-- 更新 AngleSharp 从 1.1.2 到 1.2.0
-- 更新 BlazorMonaco 从 3.2.0 到 3.3.0
-- 更新 Markdig 从0.34.0 到 0.39.1- 更新 Microsoft.AspNetCore.* 和 Microsoft.Extensions.* 相关库到 9.0.0
-- 更新 MudBlazor 从 6.19.1 到 7.15.0
-- 在 MainLayout 中添加 MudPopoverProvider 组件
-- 修改回到顶部按钮的图标为 Material Filled
-- 移除未使用的 Dpz.Core.WebMore.Service 命名空间引用</div>
+- 在 appsettings.Development.json 中添加 FileLockPath 配置项
+- 修改 BackupActivator 中的文件上传方法，使用新的 FTP 上传逻辑
+- 在 ISafeFileService 接口中添加 UploadFileForFtpAsync 方法
+- 优化 LogConfiguration 中的日志过滤逻辑，增加对特定源上下文的处理
+- 在 ObjectStorageExtension 中添加 FTPLogger 单例服务
+-重构 SafeFileService 中的文件上传逻辑，支持 FTP 上传
+- 更新 ServiceExtensions 中的分布式锁配置，使用新的 FileLockPath 设置
+- 在 TaskService 中增加对文章发布失败的警告日志</div>
                                     </div>
                                 </div>
                             </section>
@@ -722,12 +758,12 @@ Develop upgrade</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#1 Develop upgrade</span>
+                                        <span class="issue">#153 Develop company</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">pengqian089/Dpz.Core.WebMore</span></div>
-                                    <div>28 files changed <span class="code">++287 --542</span></div>
+                                    <div> in <span class="repo">pengqian089/dpz.core</span></div>
+                                    <div>10 files changed <span class="code">++168 --83</span></div>
                                 </div>
                             </section>
                         </div>
@@ -878,7 +914,7 @@ Develop upgrade</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 3.27m out of 153m users</span>
+                                    <span class="gh">ranked 3.27m out of 152m users</span>
                                 </div>
                                 <div class="text">Published 20 public repositories</div>
                             </div>
@@ -1074,7 +1110,7 @@ Develop upgrade</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.99m out of 153m users</span>
+                                    <span class="gh">ranked 2.99m out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -1282,58 +1318,16 @@ Develop upgrade</div>
                     <section class="largeable-column-fields">
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                            </svg>
-                            From
-                            <span class="blue space">pengqian089/Dpz.Core.WebMore</span>
-                        </div>
-                    </section>
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
-                            </svg>
-                            On 10 Jan 2025, 18:07:05
-                        </div>
-                    </section>
-                </div>
-                <div class="row">
-                    <section class="largeable-column-fields">
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                            </svg>
-                            feat(WebMore): 添加 BSON 文件解析功能
-
-- 新增 ShowBsonToJson 页面，实现 BSON 文件上传和解析
-- 添加 ObjectId 解析功能
-- 集成 Monaco编辑器用于显示 JSON 数据
-- 优化文件上传组件，支持选择单个 BSON 文件
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">df0b8975</span>
-                            <span class="code">src/Dpz.Core.WebMore/Helper/AppTools.cs</span>
-                            <span class="code">
-                                <span class="snippet additions">++5</span>
-                                <span class="snippet deletions">--0</span>
-                            </span>
-                        </div>
-                    </section>
-                </div>
-                <div class="row">
-                    <section class="snippet">
-                        <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -25,6 +25,11 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">private static readonly Dictionary&lt;string, object&gt; ClientCache = new();<br /></span><span class="token prefix unchanged">·</span><span class="token line">public static ILogger&lt;Program&gt; ProgramLogger { get; set; }<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">/// &lt;summary&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">/// 客户端最大读取文件大小 unit byte<br /></span><span class="token prefix inserted">+</span><span class="token line">/// &lt;/summary&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">public const long MaxFileSize = 1024 * 1024 * 100;<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">public static bool IsDark;<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            No recent code snippet found
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2025, 17:13:22 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2025, 18:13:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
