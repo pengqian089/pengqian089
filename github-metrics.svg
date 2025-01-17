@@ -461,7 +461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>layui/layui</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。</div>
@@ -813,7 +813,7 @@ Develop company</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 3.28m out of 152m users</span>
+                                    <span class="gh">ranked 3.28m out of 153m users</span>
                                 </div>
                                 <div class="text">Published 20 public repositories</div>
                             </div>
@@ -1009,7 +1009,7 @@ Develop company</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3m out of 152m users</span>
+                                    <span class="gh">ranked 3m out of 153m users</span>
                                 </div>
                                 <div class="text">Followed by 5 users</div>
                             </div>
@@ -1226,7 +1226,7 @@ Develop company</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jan 2025, 19:09:29 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2025, 20:20:48 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
