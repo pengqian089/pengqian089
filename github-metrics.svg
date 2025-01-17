@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2589" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2323" class="">
     <defs>
         <style/>
     </defs>
@@ -561,6 +561,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">pengqian089/dpz.core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop-company</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#caf0e24</div>
+                                        <div class="message">refactor(network): 重构 AnalyzeService 并添加 Chat 功能
+- 重构 AnalyzeService 类，优化代码结构和可读性
+- 添加 ChatAsync 方法，支持与 AI 模型进行对话
+- 新增 SendMessageAsync 方法，用于发送消息并处理响应
+- 创建 ChatMessage 类，用于定义聊天消息结构
+- 更新项目文件，移除不必要的文件夹引用</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">pengqian089/dpz.core</span>
                                     </div>
@@ -645,121 +670,6 @@ Develop company</div>
 - 新增 AnalyzeService 类，用于发送文本分析请求
 - 添加 AnalyzeServiceTest 类，实现分析服务的单元测试- 在 appsettings.Test.json 中配置分析服务的主机和 API 密钥
 - 更新 NetworkServiceExtensions，注册分析服务的 HTTP 客户端</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 15 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop-company</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#49cc11a</div>
-                                        <div class="message">refactor(Web): 优化机器人访问拒绝逻辑
-
-- 移除了用户代理和 IP 地址的检查逻辑
-- 仅根据请求路径和访问阈值来决定是否阻止访问</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#879d3b8</div>
-                                        <div class="message">Merge pull request #165 from pengqian089/develop-home
-
-feat(core.web): 优化机器人访问控制逻辑</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f02fc8f</div>
-                                        <div class="message">feat(core.web): 优化机器人访问控制逻辑
-
-- 新增配置项 IgnoreUserAgents，用于忽略特定用户代理
-- 改进 Block访问控制逻辑，增加对忽略用户代理的判断
-- 优化 Bot 检查逻辑，简化代码结构
-- 修改 IgnoreCase比较方式，使用 OrdinalIgnoreCase 替代 CurrentCultureIgnoreCase
-- 修正 GetHashCode 方法，使用 ToLowerInvariant 替代 ToLower</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d75b42e</div>
-                                        <div class="message">Merge pull request #163 from pengqian089/develop-home
-
-build(Dpz.Core.Web): 更新版本号至 4.7.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#217a566</div>
-                                        <div class="message">build(Dpz.Core.Web): 更新版本号至 4.7.6
-
-- 将 Dpz.Core.Web.csproj 文件中的 Version 元素从 4.7.5.$(Build) 修改为 4.7.6.$(Build)
-- 此更新统一了项目的版本号，确保版本一致性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18c533c</div>
-                                        <div class="message">Merge pull request #161 from pengqian089/develop-home
-
-feat(RejectBots): 优化机器人检测和响应逻辑</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d8d1ab5</div>
-                                        <div class="message">feat(RejectBots): 优化机器人检测和响应逻辑
-
-- 移除 Response403Async 方法中的冗余参数
-- 添加 IgnoreUserAgents 配置项，用于忽略特定用户代理
-- 优化 bot 查找逻辑，增加对用户代理的忽略判断
-- 改进日志记录方式，使用占位符输出更多详细信息</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c7c80b</div>
-                                        <div class="message">Merge pull request #160 from pengqian089/develop-company
-
-perf(core-web): 升级版本号并优化日志记录</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0394124</div>
-                                        <div class="message">Merge pull request #158 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb995b9</div>
-                                        <div class="message">Merge pull request #157 from pengqian089/develop-company
-
-build(Dpz.Core.Web.Jobs): 更新项目版本号</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67236ec</div>
-                                        <div class="message">Merge pull request #155 from pengqian089/develop-company
-
-feat(ObjectStorage): 优化 FTP客户端配置</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3f3ba28</div>
-                                        <div class="message">Merge pull request #153 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#739b877</div>
-                                        <div class="message">Merge pull request #152 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd22706</div>
-                                        <div class="message">Merge pull request #151 from pengqian089/develop-company
-
-- 将版本号从 2.9.6.$(Build) 升级到2.9.7.$(Build)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#19878c7</div>
-                                        <div class="message">Merge pull request #150 from pengqian089/develop-company
-
-Develop company</div>
                                     </div>
                                 </div>
                             </section>
@@ -911,7 +821,7 @@ Develop company</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 3.27m out of 153m users</span>
+                                    <span class="gh">ranked 3.28m out of 153m users</span>
                                 </div>
                                 <div class="text">Published 20 public repositories</div>
                             </div>
@@ -1324,7 +1234,7 @@ Develop company</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jan 2025, 13:11:02 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jan 2025, 14:15:56 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
