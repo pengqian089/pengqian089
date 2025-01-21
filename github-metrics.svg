@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2598" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2542" class="">
     <defs>
         <style/>
     </defs>
@@ -562,6 +562,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">pengqian089/SiteSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">upgrade-layui</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fdd23c2</div>
+                                        <div class="message">showdown 组件</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">pengqian089/SiteScript</span>
                                     </div>
                                 </div>
@@ -648,56 +668,6 @@
 - 优化聊天记录保存和查询逻辑
 - 更新聊天页面样式和功能
 - 修复了一些与聊天相关的小问题</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f9a6067</div>
-                                        <div class="message">Merge pull request #168 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aed5e11</div>
-                                        <div class="message">feat(core): 添加 ChatGPT作为默认好友并优化聊天记录功能
-
-- 在默认好友列表中添加 ChatGPT 用户
-- 新增聊天记录方法
-- 优化聊天模型类，使用可空类型并初始化列表
-- 修改身份验证逻辑，增加对已认证用户的判断</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#caf0e24</div>
-                                        <div class="message">refactor(network): 重构 AnalyzeService 并添加 Chat 功能
-- 重构 AnalyzeService 类，优化代码结构和可读性
-- 添加 ChatAsync 方法，支持与 AI 模型进行对话
-- 新增 SendMessageAsync 方法，用于发送消息并处理响应
-- 创建 ChatMessage 类，用于定义聊天消息结构
-- 更新项目文件，移除不必要的文件夹引用</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29e61f0</div>
-                                        <div class="message">feat(core): 添加文章广告权重分析功能
-
-- 在 Article 模型中添加 AdWeight 字段，用于存储广告权重
-- 新增 ArticleAnalyze 类用于 AI 分析结果
-- 修改 AnalyzeService 以使用 GPT 模型进行文章分析
-- 更新 TaskService 以集成文章分析功能
--调整 RegisterDependencyInjectionExtensions 以注册网络服务</div>
                                     </div>
                                 </div>
                             </section>
@@ -1302,7 +1272,7 @@ Develop company</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jan 2025, 13:11:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jan 2025, 14:15:58 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
