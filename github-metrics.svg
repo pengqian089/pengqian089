@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2810" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2437" class="">
     <defs>
         <style/>
     </defs>
@@ -561,6 +561,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">pengqian089/dpz.core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop-company</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76093dd</div>
+                                        <div class="message">refactor(core): 重构代码并优化数据模型
+
+- 更新了多个数据模型，使用可空类型以提高代码安全性
+- 优化了部分代码结构，提高了可读性和可维护性
+- 移除了未使用的代码和过时的引用
+- 更新了HtmlSanitizer包到最新版本</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 8 commits in
                                         <span class="repo">pengqian089/dpz.core</span>
                                     </div>
@@ -694,182 +719,6 @@ feat(core): 添加 AI 分析结果展示功能</div>
                                 <div class="details">
                                     <div> in <span class="repo">pengqian089/dpz.core</span></div>
                                     <div>5 files changed <span class="code">++34 --27</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 30 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop-home</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b31ffee</div>
-                                        <div class="message">refactor(core): 重构图标相关实体和服务
-
-- 修改 FileIcons、FolderIcons 和 LanguageIcons 类，使其实现 IBaseEntity 接口
-- 为实体类添加 ObjectId 类型的 Id 属性
-- 简化 MaterialIconService 类的构造函数和方法</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f71c6c</div>
-                                        <div class="message">feat(core): 优化 MongoDB 访问扩展方法
-
-- 添加属性缓存以提高性能
-- 实现属性值获取的缓存机制
-- 优化表达式树的创建和编译过程
-- 改进错误处理和异常信息</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2245b6b</div>
-                                        <div class="message">feat(core): 重构邮箱配置服务并添加 AES 加密功能
-
-- 重构 EmailConfigService 类,添加分布式锁和 AES 加密功能
-- 更新 EmailConfig 实体类,将 ImapProt 属性改为 ImapPort
-- 修改 VmEmailConfig ViewModel,同步更新 ImapProt 为 ImapPort
--优化邮箱配置的添加、编辑和删除逻辑,确保线程安全
-- 使用 SHA256哈希算法生成邮箱别名对应的 AES 密钥
-- 实现邮箱配置密码的 AES 加密和解密方法</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf1d3fb</div>
-                                        <div class="message">feat(backup): 优化数据备份功能
-
-- 添加过滤条件，仅备份未完成的 WaitExecution 记录和 RefreshToken 未过期的 AccountToken 记录
-- 实现 SerializerFilterDocument 方法，用于序列化过滤条件
-- 修改 BackupMainAsync 方法以支持过滤条件
-- 暂时注释掉 ClearExpiredAsync 方法调用</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ecd3508</div>
-                                        <div class="message">refactor(Backup): 移除未使用的 System.Linq.Dynamic.Core 引用
-
-- 注释掉了 BackupRestore.cs 中使用 System.Linq.Dynamic.Core 的代码
-- 从 Dpz.Core.Backup.csproj 中移除了 System.Linq.Dynamic.Core 包引用</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#315b29a</div>
-                                        <div class="message">feat(core): 添加文章分类功能并优化文章发布流程
-
-- 在 Article 和 VmCreateArticleV4模型中添加 Categories 属性- 在文章发布时分析文章内容，自动添加分类标签
-- 优化文章发布流程，处理潜在的异常情况
-- 在网页头部添加 RSS 订阅链接</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd2660a</div>
-                                        <div class="message">refactor(Core.Service.Network): 优化 GPT 接口调用配置处理
-
-- 移除了不必要的临时变量
-- 改进了 CallOption 的默认值设置方式
-- 为 Model 属性添加了默认值 "gpt-4o-mini"</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd033e3</div>
-                                        <div class="message">refactor(core): 重构核心模块代码
-
-- 优化 CSS 和 JS 文件引用
-- 改进 AnalyzeService 和 ChatController 的实现
-- 统一 ResponseResult 类的命名和使用
-- 调整 ChatRecord 方法的逻辑
-- 移除不必要的库引用</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf7a5a4</div>
-                                        <div class="message">feat(core): 添加 Markdown 解析支持并优化 Chat 消息结构
-- 在 _IncludeJsFilesPartial.cshtml 中添加 showdown.min.js 文件，用于 Markdown 解析
-- 修改 AnalyzeService.cs 中的 ChatAsync 方法，启用流式响应
-- 更新 ChatMessage.cs 中的 Message 属性名称为 Content，以符合 OpenAI API 的最新变更</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50af45c</div>
-                                        <div class="message">feat(core): 集成 ChatGPT 接口并优化聊天功能
-
-- 新增 ChatGPT 用户 ID 和相关配置
-- 实现与 ChatGPT 的消息交互功能
-- 优化聊天记录保存和查询逻辑
-- 更新聊天页面样式和功能
-- 修复了一些与聊天相关的小问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9a6067</div>
-                                        <div class="message">Merge pull request #168 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aed5e11</div>
-                                        <div class="message">feat(core): 添加 ChatGPT作为默认好友并优化聊天记录功能
-
-- 在默认好友列表中添加 ChatGPT 用户
-- 新增聊天记录方法
-- 优化聊天模型类，使用可空类型并初始化列表
-- 修改身份验证逻辑，增加对已认证用户的判断</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#caf0e24</div>
-                                        <div class="message">refactor(network): 重构 AnalyzeService 并添加 Chat 功能
-- 重构 AnalyzeService 类，优化代码结构和可读性
-- 添加 ChatAsync 方法，支持与 AI 模型进行对话
-- 新增 SendMessageAsync 方法，用于发送消息并处理响应
-- 创建 ChatMessage 类，用于定义聊天消息结构
-- 更新项目文件，移除不必要的文件夹引用</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29e61f0</div>
-                                        <div class="message">feat(core): 添加文章广告权重分析功能
-
-- 在 Article 模型中添加 AdWeight 字段，用于存储广告权重
-- 新增 ArticleAnalyze 类用于 AI 分析结果
-- 修改 AnalyzeService 以使用 GPT 模型进行文章分析
-- 更新 TaskService 以集成文章分析功能
--调整 RegisterDependencyInjectionExtensions 以注册网络服务</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#119e8bf</div>
-                                        <div class="message">Merge pull request #167 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f3d246</div>
-                                        <div class="message">feat(core): 添加分析服务并进行单元测试
-
-- 新增 AnalyzeService 类，用于发送文本分析请求
-- 添加 AnalyzeServiceTest 类，实现分析服务的单元测试- 在 appsettings.Test.json 中配置分析服务的主机和 API 密钥
-- 更新 NetworkServiceExtensions，注册分析服务的 HTTP 客户端</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49cc11a</div>
-                                        <div class="message">refactor(Web): 优化机器人访问拒绝逻辑
-
-- 移除了用户代理和 IP 地址的检查逻辑
-- 仅根据请求路径和访问阈值来决定是否阻止访问</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#879d3b8</div>
-                                        <div class="message">Merge pull request #165 from pengqian089/develop-home
-
-feat(core.web): 优化机器人访问控制逻辑</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d75b42e</div>
-                                        <div class="message">Merge pull request #163 from pengqian089/develop-home
-
-build(Dpz.Core.Web): 更新版本号至 4.7.6</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#18c533c</div>
-                                        <div class="message">Merge pull request #161 from pengqian089/develop-home
-
-feat(RejectBots): 优化机器人检测和响应逻辑</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1433,7 +1282,7 @@ feat(RejectBots): 优化机器人检测和响应逻辑</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2025, 11:15:18 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Feb 2025, 12:14:14 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
