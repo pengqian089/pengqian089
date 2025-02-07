@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2263" class="">
     <defs>
         <style/>
     </defs>
@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radzenhq/radzen-blazor</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>samwafgo/SamWaf</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SamWaf开源轻量级网站防火墙，完全私有化部署 SamWaf is a lightweight, open-source web application firewall for small companies, studios, and personal websites. It supports fully private deployment, encrypts data stored locally, is easy to start, and supports Linux and Windows 64-bit.</div>
@@ -388,7 +388,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        535
+                                        537
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Taiizor/ReaLTaiizor</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ReaLTaiizor is a .NET WinForms control library that offers a wide range of components and is user-friendly and design-focused.</div>
@@ -562,6 +562,32 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">radzenhq/radzen-blazor</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">samwafgo/SamWaf</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">Taiizor/ReaLTaiizor</span>
                                     </div>
                                 </div>
@@ -631,115 +657,6 @@
 - 优化了部分代码结构，提高了可读性和可维护性
 - 移除了未使用的代码和过时的引用
 - 更新了HtmlSanitizer包到最新版本</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop-company</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6f33fa7</div>
-                                        <div class="message">refactor(core): 优化代码并添加新功能
-
-- 修改 AnalyzeCodeActivator 中的代码分析逻辑，使用 StringBuilder 优化性能
-- 更新 AvOpts 中的 AddRange 方法，使其更清晰
-- 改进 BackupRestore 中的 GetBackupDataAsync 方法，使用 Task.FromResult
-- 优化 CodeController 中的文件过滤逻辑
-- 更新 CommentQueryDto 和 CommentPageQuery 类，添加新的属性和注释
-- 升级 AngleSharp 包到 1.2.0 版本
-- 移除 AngleSharp.Css 和 AngleSharp.Js 包
-- 添加新的 SHA256 哈希方法
-- 更新现有的 SHA256 加密方法
-- 优化 SetupCode 类，禁用可空警告</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1607e71</div>
-                                        <div class="message">Merge pull request #173 from pengqian089/develop-home
-
-feat(core): 添加 AI 分析结果展示功能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2dfe0c</div>
-                                        <div class="message">feat(core): 添加 AI 分析结果展示功能
-
-- 新增 _AiAnalyzeResultPartial.cshtml部分视图用于展示 AI 分析结果
-- 在 _CodeRowsPartial.cshtml 中集成 AI 分析结果部分视图
-- 修改 CodeController.cs 中的 GetCodeContentAsync 方法，支持获取 AI 分析结果
-- 更新 CodeNoteTree.cs模型，添加 AiAnalyzeResult 属性用于存储 AI 分析结果
-- 优化代码结构，提高可维护性和可读性</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b6ac51f</div>
-                                        <div class="message">Merge pull request #171 from pengqian089/develop-company
-
-fix(docker): 修正 Hangfire 配置参数</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbe597b</div>
-                                        <div class="message">Merge pull request #170 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#007277f</div>
-                                        <div class="message">Merge pull request #169 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9a6067</div>
-                                        <div class="message">Merge pull request #168 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#119e8bf</div>
-                                        <div class="message">Merge pull request #167 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1607e71</div>
-                                        <div class="message">Merge pull request #173 from pengqian089/develop-home
-
-feat(core): 添加 AI 分析结果展示功能</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2dfe0c</div>
-                                        <div class="message">feat(core): 添加 AI 分析结果展示功能
-
-- 新增 _AiAnalyzeResultPartial.cshtml部分视图用于展示 AI 分析结果
-- 在 _CodeRowsPartial.cshtml 中集成 AI 分析结果部分视图
-- 修改 CodeController.cs 中的 GetCodeContentAsync 方法，支持获取 AI 分析结果
-- 更新 CodeNoteTree.cs模型，添加 AiAnalyzeResult 属性用于存储 AI 分析结果
-- 优化代码结构，提高可维护性和可读性</div>
                                     </div>
                                 </div>
                             </section>
@@ -1304,7 +1221,7 @@ feat(core): 添加 AI 分析结果展示功能</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Feb 2025, 20:20:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Feb 2025, 21:17:49 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
