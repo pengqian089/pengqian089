@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2544" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2411" class="">
     <defs>
         <style/>
     </defs>
@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mganss/XmlSchemaClassGenerator</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate C# classes from XML Schema files</div>
@@ -570,6 +570,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">mganss/XmlSchemaClassGenerator</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -715,79 +728,6 @@ Develop company</div>
                                         <div class="message">Merge pull request #173 from pengqian089/develop-home
 
 feat(core): 添加 AI 分析结果展示功能</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b8248e2</div>
-                                        <div class="message">Merge pull request #174 from pengqian089/develop-company
-
-Develop company</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#03d9cd7</div>
-                                        <div class="message">refactor(core): 重构代码并提高代码质量
-
-- 修改了多个文件中的代码结构和样式
-- 优化了部分代码逻辑,提高了可读性和可维护性
-- 统一了用户身份验证方法
-- 调整了部分变量命名和格式</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10c3c20</div>
-                                        <div class="message">refactor(web): 优化登录体验和页面设计
-
-- 修改安全密钥不匹配时的响应状态码为 302
-- 更新登录和重新登录的视图设计
-- 优化 HTML 结构和样式，提升用户体验</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54cd7f8</div>
-                                        <div class="message">refactor(web): 重构权限验证逻辑
-
-- 重构了 CheckAuthorizeAttribute 类，优化了权限验证流程
-- 新增 Forbidden.cshtml视图用于权限不足时的响应
-- 更新 NotFound.cshtml 视图，使用新的静态内容加载方式
-- 新增 ToolService 类用于加载静态内容
-- 优化了 WebToolsExtensions 类中的方法</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#76093dd</div>
-                                        <div class="message">refactor(core): 重构代码并优化数据模型
-
-- 更新了多个数据模型，使用可空类型以提高代码安全性
-- 优化了部分代码结构，提高了可读性和可维护性
-- 移除了未使用的代码和过时的引用
-- 更新了HtmlSanitizer包到最新版本</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f33fa7</div>
-                                        <div class="message">refactor(core): 优化代码并添加新功能
-
-- 修改 AnalyzeCodeActivator 中的代码分析逻辑，使用 StringBuilder 优化性能
-- 更新 AvOpts 中的 AddRange 方法，使其更清晰
-- 改进 BackupRestore 中的 GetBackupDataAsync 方法，使用 Task.FromResult
-- 优化 CodeController 中的文件过滤逻辑
-- 更新 CommentQueryDto 和 CommentPageQuery 类，添加新的属性和注释
-- 升级 AngleSharp 包到 1.2.0 版本
-- 移除 AngleSharp.Css 和 AngleSharp.Js 包
-- 添加新的 SHA256 哈希方法
-- 更新现有的 SHA256 加密方法
-- 优化 SetupCode 类，禁用可空警告</div>
                                     </div>
                                 </div>
                             </section>
@@ -1352,7 +1292,7 @@ Develop company</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2025, 05:10:12 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2025, 06:11:13 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
