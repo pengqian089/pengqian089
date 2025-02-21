@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mganss/XmlSchemaClassGenerator</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generate C# classes from XML Schema files</div>
@@ -473,7 +473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>radzenhq/radzen-blazor</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Radzen Blazor is a set of 90+ free native Blazor UI components packed with DataGrid, Scheduler, Charts and robust theming including Material design and FluentUI.</div>
@@ -1292,7 +1292,7 @@ feat(core): 添加 AI 分析结果展示功能</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2025, 15:11:48 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Feb 2025, 16:15:12 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
