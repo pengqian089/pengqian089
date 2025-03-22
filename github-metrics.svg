@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2599" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2523" class="">
     <defs>
         <style/>
     </defs>
@@ -578,6 +578,29 @@
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">develop-home</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#052f5ad</div>
+                                        <div class="message">build(deps): 更新 ImageSharp包到 3.1.7 版本
+
+- 在 Dpz.Core.Service、Dpz.Core.Service.ObjectStorage 和 Dpz.Core.Web 项目中
+- 将 SixLabors.ImageSharp 包从 3.1.5 版本升级到 3.1.7 版本</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">pengqian089/dpz.core</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">develop-company</span></div>
                                     <div class="commit">
                                         <div class="sha">#9396370</div>
@@ -739,58 +762,6 @@ refactor(views): 优化搜索表单和运行时间显示</div>
                                         <div class="message">Merge pull request #174 from pengqian089/develop-company
 
 Develop company</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">pengqian089/dpz.core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7cb96a5</div>
-                                        <div class="message">Merge pull request #178 from pengqian089/develop-home
-
-Develop home</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e8ccb3</div>
-                                        <div class="message">perf(ai): 优化代码分析任务的性能和日志记录
-
-- 添加代码行数检查，忽略小于 50 行的文件以减少不必要的分析
-- 实现文件路径和名称的 BASE64编码，提高锁键的兼容性
-- 增加成功和失败分析的日志记录，提供更详细的上下文信息</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fa5a87</div>
-                                        <div class="message">build(Dpz.Core.Web): 升级 Chisel 依赖版本
-
-- 将 Chisel 依赖版本从 1.0.0 升级到 1.1.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c4af412</div>
-                                        <div class="message">feat(core): 添加文章广告概率分析并优化文章列表和详情页面
-- 在文章详情页面添加广告概率警告提示
-- 更新 AI 分析结果样式
-- 优化文章列表页面排序
-- 重构 ArticleController 中的正则表达式</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b99cdc</div>
-                                        <div class="message">refactor(Dpz.Core.Web.Jobs): 重构任务服务基类
-- 将 TaskService 从抽象类改为构造函数注入依赖
-- 移除了 IHybridCachingProvider 的使用
-- 优化了日志记录和错误处理
-- 重构了部分方法，提高了代码可读性和可维护性</div>
                                     </div>
                                 </div>
                             </section>
@@ -1355,7 +1326,7 @@ Develop home</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Mar 2025, 06:10:59 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Mar 2025, 07:11:40 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
