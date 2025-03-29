@@ -580,6 +580,122 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#85f1487</div>
+                                        <div class="message">Merge pull request #18 from pengqian089/dependabot/npm_and_yarn/member-desktop/webpack-5.98.0
+
+Bump webpack from 5.89.0 to 5.98.0 in /member-desktop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#051448b</div>
+                                        <div class="message">Bump webpack from 5.89.0 to 5.98.0 in /member-desktop
+
+Bumps [webpack](https://github.com/webpack/webpack) from 5.89.0 to 5.98.0.
+- [Release notes](https://github.com/webpack/webpack/releases)
+- [Commits](https://github.com/webpack/webpack/compare/v5.89.0...v5.98.0)
+
+---
+updated-dependencies:
+- dependency-name: webpack
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">pengqian089/SiteScript</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#97132b7</div>
+                                        <div class="message">Merge pull request #17 from pengqian089/dependabot/npm_and_yarn/member-desktop/nanoid-3.3.11
+
+Bump nanoid from 3.3.7 to 3.3.11 in /member-desktop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d520ac7</div>
+                                        <div class="message">Bump nanoid from 3.3.7 to 3.3.11 in /member-desktop
+
+Bumps [nanoid](https://github.com/ai/nanoid) from 3.3.7 to 3.3.11.
+- [Release notes](https://github.com/ai/nanoid/releases)
+- [Changelog](https://github.com/ai/nanoid/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/ai/nanoid/compare/3.3.7...3.3.11)
+
+---
+updated-dependencies:
+- dependency-name: nanoid
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">pengqian089/SiteScript</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eba362e</div>
+                                        <div class="message">Merge pull request #16 from pengqian089/dependabot/npm_and_yarn/member-desktop/rollup-3.29.5
+
+Bump rollup from 3.28.1 to 3.29.5 in /member-desktop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1f778bf</div>
+                                        <div class="message">Bump rollup from 3.28.1 to 3.29.5 in /member-desktop
+
+Bumps [rollup](https://github.com/rollup/rollup) from 3.28.1 to 3.29.5.
+- [Release notes](https://github.com/rollup/rollup/releases)
+- [Changelog](https://github.com/rollup/rollup/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/rollup/rollup/compare/v3.28.1...v3.29.5)
+
+---
+updated-dependencies:
+- dependency-name: rollup
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">pengqian089/SiteScript</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2c333d2</div>
                                         <div class="message">Merge pull request #8 from pengqian089/dependabot/npm_and_yarn/member-desktop-by-quasar/prismjs-1.30.0
 
@@ -637,148 +753,6 @@ Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) from 4.4.9 
 updated-dependencies:
 - dependency-name: vite
   dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">pengqian089/SiteScript</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e325c2b</div>
-                                        <div class="message">Merge pull request #10 from pengqian089/dependabot/npm_and_yarn/member-desktop-by-quasar/babel/helpers-7.27.0
-
-Bump @babel/helpers from 7.24.4 to 7.27.0 in /member-desktop-by-quasar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86a6b77</div>
-                                        <div class="message">Bump @babel/helpers from 7.24.4 to 7.27.0 in /member-desktop-by-quasar
-
-Bumps [@babel/helpers](https://github.com/babel/babel/tree/HEAD/packages/babel-helpers) from 7.24.4 to 7.27.0.
-- [Release notes](https://github.com/babel/babel/releases)
-- [Changelog](https://github.com/babel/babel/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/babel/babel/commits/v7.27.0/packages/babel-helpers)
-
----
-updated-dependencies:
-- dependency-name: "@babel/helpers"
-  dependency-type: indirect
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">pengqian089/SiteScript</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#101af07</div>
-                                        <div class="message">Merge pull request #12 from pengqian089/dependabot/npm_and_yarn/code-view/multi-6b8765b8c2
-
-Bump vite and @quasar/app-vite in /code-view</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7a0fcd</div>
-                                        <div class="message">Bump vite and @quasar/app-vite in /code-view
-
-Bumps [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite) to 6.2.3 and updates ancestor dependency [@quasar/app-vite](https://github.com/quasarframework/quasar). These dependencies need to be updated together.
-
-
-Updates `vite` from 2.9.16 to 6.2.3
-- [Release notes](https://github.com/vitejs/vite/releases)
-- [Changelog](https://github.com/vitejs/vite/blob/v6.2.3/packages/vite/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite/commits/v6.2.3/packages/vite)
-
-Updates `@quasar/app-vite` from 1.7.0 to 2.2.0
-- [Release notes](https://github.com/quasarframework/quasar/releases)
-- [Commits](https://github.com/quasarframework/quasar/compare/@quasar/app-vite-v1.7.0...@quasar/app-vite-v2.2.0)
-
----
-updated-dependencies:
-- dependency-name: vite
-  dependency-type: indirect
-- dependency-name: "@quasar/app-vite"
-  dependency-type: direct:development
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">pengqian089/SiteScript</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#697cb42</div>
-                                        <div class="message">Merge pull request #14 from pengqian089/dependabot/npm_and_yarn/member-desktop-by-quasar/multi-a199677a7b
-
-Bump esbuild, @quasar/app-vite and vite in /member-desktop-by-quasar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd5f486</div>
-                                        <div class="message">Bump esbuild, @quasar/app-vite and vite in /member-desktop-by-quasar
-
-Bumps [esbuild](https://github.com/evanw/esbuild) to 0.25.1 and updates ancestor dependencies [esbuild](https://github.com/evanw/esbuild), [@quasar/app-vite](https://github.com/quasarframework/quasar) and [vite](https://github.com/vitejs/vite/tree/HEAD/packages/vite). These dependencies need to be updated together.
-
-
-Updates `esbuild` from 0.14.51 to 0.25.1
-- [Release notes](https://github.com/evanw/esbuild/releases)
-- [Changelog](https://github.com/evanw/esbuild/blob/main/CHANGELOG-2022.md)
-- [Commits](https://github.com/evanw/esbuild/compare/v0.14.51...v0.25.1)
-
-Updates `@quasar/app-vite` from 1.8.5 to 2.2.0
-- [Release notes](https://github.com/quasarframework/quasar/releases)
-- [Commits](https://github.com/quasarframework/quasar/compare/@quasar/app-vite-v1.8.5...@quasar/app-vite-v2.2.0)
-
-Updates `vite` from 2.9.18 to 6.2.3
-- [Release notes](https://github.com/vitejs/vite/releases)
-- [Changelog](https://github.com/vitejs/vite/blob/v6.2.3/packages/vite/CHANGELOG.md)
-- [Commits](https://github.com/vitejs/vite/commits/v6.2.3/packages/vite)
-
----
-updated-dependencies:
-- dependency-name: esbuild
-  dependency-type: indirect
-- dependency-name: "@quasar/app-vite"
-  dependency-type: direct:development
-- dependency-name: vite
-  dependency-type: indirect
 ...
 
 Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
@@ -1346,7 +1320,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Mar 2025, 06:10:44 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2025, 07:11:06 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
