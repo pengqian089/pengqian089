@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BornToBeRoot/NETworkManager</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful tool for managing networks and troubleshoot network problems!</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lostindark/DriverStoreExplorer</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Driver Store Explorer [RAPR]</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yeongpin/cursor-free-vip</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">[Support 0.48.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</div>
@@ -454,7 +454,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        608
+                                        609
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -745,7 +745,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2025, 23:12:48 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2025, 00:14:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
