@@ -580,6 +580,32 @@
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
+                                        <div class="sha">#58af495</div>
+                                        <div class="message">feat(core): 新增多个视图页面
+
+- 新增 Activity、BindTwoFactor、CommonMark、Date、Demo3 等多个视图页面
+- 优化 Login 页面布局
+- 添加 layui 折叠面板示例
+- 新增友链页面和黑名单页面
+- 优化 Markdown 渲染页面</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">pengqian089/SiteSource</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2e184af</div>
                                         <div class="message">refactor(Steam): 优化成就页面布局和样式
 
@@ -671,34 +697,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">pengqian089/SiteSource</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6276a4c</div>
-                                        <div class="message">feat(core): 添加基础页面布局和功能模块
-
-- 新增 _AccountLayout、_ChatRoomPartial、_GlobalCommentPartial 等多个共享视图
-- 添加 _IncludeCssFilePartial 和 _IncludeJsFilesPartial 用于引入静态资源
-- 实现 _Layout.cshtml 作为基础布局文件
-- 添加左侧菜单和顶部菜单的实现
-- 新增分页器、搜索框等公共组件
-- 添加 SEO 相关的视图部分
-- 实现一些基础的 JavaScript 功能模块</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -763,7 +761,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">50511fc7</span>
-                            <span class="code">core/css/version_2_0/article_list_version_2_0.css</span>
+                            <span class="code">core/css/version_2_0/friends_version_2_0.css</span>
                             <span class="code">
                                 <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--1</span>
@@ -774,14 +772,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,8 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">/* 文章列表页样式 2.0 版本 - 现代化、美观大气的设计 */<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/* 文章列表样式 2.0 版本 - 现代化、美观大气的设计 */<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">/* 引入设计系统 */<br /></span><span class="token prefix unchanged">·</span><span class="token line">@import '_design_system.css';<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/* 引入Firefox兼容性修复 */<br /></span><span class="token prefix inserted">+</span><span class="token line">@import '_firefox_compatibility.css';<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/* 主容器布局优化 */<br /></span><span class="token prefix unchanged">·</span><span class="token line">.blog-main {</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,8 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">/* 友情链接页面样式 2.0 版本 - 更美观、大气的设计 */<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/* 友情链接样式 2.0 版本 - 现代化、美观大气的设计 */<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">/* 引入设计系统 */<br /></span><span class="token prefix unchanged">·</span><span class="token line">@import '_design_system.css';<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/* 引入Firefox兼容性修复 */<br /></span><span class="token prefix inserted">+</span><span class="token line">@import '_firefox_compatibility.css';<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/* 主容器样式 */<br /></span><span class="token prefix unchanged">·</span><span class="token line">.friends-container {</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2025, 21:32:07 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2025, 22:14:25 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
