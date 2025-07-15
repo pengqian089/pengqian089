@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1741" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1752" class="">
     <defs>
         <style/>
     </defs>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>falahati/NvAPIWrapper</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NvAPIWrapper is a .Net wrapper for NVIDIA public API, capable of managing all aspects of a display setup using NVIDIA GPUs</div>
@@ -742,7 +742,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 14 Jul 2025, 01:20:43
+                            On 14 Jul 2025, 19:16:18
                         </div>
                     </section>
                 </div>
@@ -752,24 +752,20 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat(core): 添加基础页面布局和功能模块
+                            feat(css): 添加 Firefox 浏览器兼容性修复
 
-- 新增 _AccountLayout、_ChatRoomPartial、_GlobalCommentPartial 等多个共享视图
-- 添加 _IncludeCssFilePartial 和 _IncludeJsFilesPartial 用于引入静态资源
-- 实现 _Layout.cshtml 作为基础布局文件
-- 添加左侧菜单和顶部菜单的实现
-- 新增分页器、搜索框等公共组件
-- 添加 SEO 相关的视图部分
-- 实现一些基础的 JavaScript 功能模块
+- 新增 _firefox_compatibility.css 文件，专门处理 Firefox 浏览器的兼容性问题
+- 在所有主题样式文件中引入 Firefox 兼容性修复样式
+- 优化了 backdrop-filter、滚动条、表单元素等在 Firefox 中的显示和性能
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">6276a4cd</span>
-                            <span class="code">core/MinifyMergeStyle.ps1</span>
+                            <span class="code">50511fc7</span>
+                            <span class="code">core/css/version_2_0/steam_version_2_0.css</span>
                             <span class="code">
-                                <span class="snippet additions">++2</span>
+                                <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--1</span>
                             </span>
                         </div>
@@ -778,14 +774,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -32,7 +32,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  "./core/css/video.css",<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "./core/css/version_2_0/music_version_2_0.css",<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "./core/css/version_2_0/notification_version_2_0.css",<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">  "./core/css/version_2_0/albums_version_2_0.css"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "./core/css/version_2_0/albums_version_2_0.css",<br /></span><span class="token prefix inserted">+</span><span class="token line">  "./core/css/version_2_0/menu_version_2_0.css"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">foreach($item in $cssPaths){<br /></span><span class="token prefix unchanged">·</span><span class="token line">  #$newCssPath = $item.Replace("./", "").Replace("/", "\");</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,8 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">/* Steam页面样式 2.0 版本 - 现代化、美观大气的设计 */<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/* Steam样式 2.0 版本 - 现代化、美观大气的设计 */<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">/* 引入设计系统 */<br /></span><span class="token prefix unchanged">·</span><span class="token line">@import '_design_system.css';<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">/* 引入Firefox兼容性修复 */<br /></span><span class="token prefix inserted">+</span><span class="token line">@import '_firefox_compatibility.css';<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">/* Steam游戏容器 - 单列布局优化 */<br /></span><span class="token prefix unchanged">·</span><span class="token line">.steam-games {</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jul 2025, 16:19:19 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jul 2025, 17:22:53 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
