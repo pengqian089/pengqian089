@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fatedier/frp</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jeessy2/ddns-go</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...</div>
@@ -755,7 +755,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Aug 2025, 17:20:14 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Aug 2025, 18:15:23 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
