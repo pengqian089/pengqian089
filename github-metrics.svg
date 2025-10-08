@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OrchardCMS/OrchardCore</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Orchard Core is an open-source modular and multi-tenant application framework built with ASP.NET Core, and a content management system (CMS) built on top of that framework.</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tengattack/certbot-dns-dnspod</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Sep 08 2025</span>
                                     </div>
                                 </div>
                                 <div class="field description">A certbot dns plugin to obtain certificates using dnspod.</div>
@@ -614,7 +614,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2025, 19:10:51 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Oct 2025, 20:26:29 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
