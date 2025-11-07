@@ -314,7 +314,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BcryptNet/bcrypt.net</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BCrypt.Net - Bringing updates to the original bcrypt package</div>
@@ -367,7 +367,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>desjarlais/Scintilla.NET</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Windows Forms control, wrapper, and bindings for the Scintilla text editor.</div>
@@ -420,7 +420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PavelTorgashov/FastColoredTextBox</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast Colored TextBox for Syntax Highlighting. The text editor component for .NET.</div>
@@ -614,7 +614,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Nov 2025, 11:05:30 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 12:16:09 (timezone Asia/Hong_Kong) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
